@@ -14,7 +14,7 @@ The IAHLT named entities corpus consists of  articles from the Davar
 news paper (47%), the Israel Hayom news paper (24%),
 Knesset protocols (2%) and Wikipedia entries (27%).
 
-The raw text was manually annotated to identify entity spans and automatically
+The raw text was manually annotated following [these guidelines](https://github.com/IAHLT/hebrew_named_entities_open_dataset/blob/main/he-guidelines.pdf) to identify entity spans and automatically
 corrected for whitespace- and punctuation-alignment. A portion of the spans
 were then scanned for potential errors and manually reviewed for quality
 assurance. Spans are allowed to nest. 
